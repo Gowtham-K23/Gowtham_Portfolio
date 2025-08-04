@@ -63,8 +63,8 @@ const skillsData = [
         skills: [
             { name: 'Git', icon: GitIcon },
             { name: 'GitHub', icon: GitHubIcon },
-            { name: 'Jupter Notebook', icon: JupyterIcon },
-            { name: 'Google Colab', icon: ColabIcon },
+            { name: 'Jupyter', icon: JupyterIcon },
+            { name: 'Colab', icon: ColabIcon },
             { name: 'intellij', icon: IntelliJIcon },
             { name: 'VS Code', icon: VSCodeIcon },
             { name: 'Postman', icon: PostmanIcon },
